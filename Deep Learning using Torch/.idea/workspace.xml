@@ -9,7 +9,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Part 2 - Neural Networks in PyTorch (Exercises).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5408" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -124,11 +132,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SimpleAnn.py">
+    <entry file="file://$PROJECT_DIR$/SimpleAnn.py" />
+    <entry file="file://$PROJECT_DIR$/Part 2 - Neural Networks in PyTorch (Exercises).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
+        <state relative-caret-position="-5408" />
       </provider>
     </entry>
   </component>
